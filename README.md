@@ -29,3 +29,7 @@ Regresión de Poisson
 *Objetivo: Analizar la estructura y aplicación de los modelos de redes para representar interacciones ecológicas, flujos de materia y conectividad en sistemas ambientales complejos.
 *Ejercicio/aprendizaje:Se analizó la red social de 62 delfines nariz de botella (Tursiops) de Doubtful Sound, Nueva Zelanda. Se calcularon métricas de centralidad (grado, betweenness, closeness, eigenvector) y se detectaron comunidades con los algoritmos Louvain y Girvan-Newman.
 
+
+-Series de tiempo estructurales con Bayes: 
+*Objetivo: Aplicar modelos de series de tiempo estructurales bayesianas (BSTS) para evaluar el impacto causal de una intervención ambiental sobre la calidad del agua.
+*Ejercicio/aprendizaje: Se analizó el efecto del plan de control de contaminación Chesapeake Bay TMDL (2010) sobre el oxígeno disuelto en la Bahía de Chesapeake, usando datos históricos de calidad del agua. Mediante el paquete CausalImpact, se ajustó un modelo BSTS que construye un contrafactual (qué hubiera pasado sin la intervención) y lo compara con los datos reales del periodo post-intervención, incorporando temperatura, pH, salinidad y profundidad Secchi como covariables.
