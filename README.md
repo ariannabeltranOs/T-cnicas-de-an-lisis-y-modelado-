@@ -1,10 +1,13 @@
 # T-cnicas-de-an-lisis-y-modelado-
 Portafolio digital del trabajo en clase 
+
 EL curso de la materia de técnicas de análisis y modelado, busca que el alumno disstinga las técnicas de análisis para el tratamiento y análisis de datos multivariados y no lineales que se emplean para el estudio de las Ciencias Ambientales, a tráves de los siguientes temas, con su respectivo objetivo específico, as{i cómo támbien el ejercicio/aprendizaje obtenido: 
+
 -Modelo de regresión lineal
 *Objetivos:Identificar los fundamentos del modelo de regresión lineal simple y múltiple para explicar relaciones entre variables ambientales continuas.
 Regresión de Poisson
 *Ejercicio/aprendizaje:
+
 -Regresión de Poisson
 *Objetivo: Reconocer el modelo de regresión de Poisson como herramienta estadística para el análisis de datos de conteo en fenómenos ambientales, como abundancia de especies o eventos de contaminación.
 *Ejercicio/aprendizaje:
